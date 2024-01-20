@@ -1,12 +1,18 @@
 <?php
-// file index giúp điều hướng tới các hàm ở trong controller
-
+ob_start();
 $url=isset($_GET['url']) ? $_GET['url'] : '/';
 require_once "Controllers/CustomerController.php";
 require_once "Models/Customer.php";
+require_once "Views/layouts/header.php";
+require_once "Views/layouts/sidebar.php";
+
 $customerController=new CustomerController();
 switch ($url){
     case '/':
+        require_once "Views/layouts/content.php";
+        break;
+//        customer (user)
+    case 'list_customer':
         $customerController->listCustomer();
         break;
     case 'add_customer':
@@ -22,3 +28,4 @@ switch ($url){
         $customerController->deleteCustomerController();
         break;
 }
+require_once "Views/layouts/footer.php";

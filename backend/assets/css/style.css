@@ -1,0 +1,11 @@
+:root {
+    --font-14: 14px;
+}
+.error{
+    color: red;
+    font-size: var(--font-14);
+}
+.result{
+    color: #1cc88a;
+    font-size: var(--font-14);
+}
