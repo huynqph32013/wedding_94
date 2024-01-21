@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba955743-1ddd-4634-bc9f-ee9724fc77f5" name="Default Changelist" comment="" />
+    <list default="true" id="ba955743-1ddd-4634-bc9f-ee9724fc77f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\marry\frontend\assets" />
       <recent name="C:\xampp\htdocs\marry\backend\assets" />
       <recent name="C:\xampp\htdocs\marry" />
     </key>
@@ -70,7 +73,8 @@
       <workItem from="1705656853066" duration="9166000" />
       <workItem from="1705677681111" duration="5614000" />
       <workItem from="1705737736755" duration="2332000" />
-      <workItem from="1705742068648" duration="5356000" />
+      <workItem from="1705742068648" duration="5594000" />
+      <workItem from="1705826463895" duration="2030000" />
     </task>
     <servers />
   </component>
