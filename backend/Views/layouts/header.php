@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Dashboard</title>
+    <title>Admin Wedding</title>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css">
 
@@ -22,5 +22,6 @@
     <!-- Custom styles for this template-->
     <link href="./assets/css/sb-admin-2.min.css" rel="stylesheet">
     <link href="./assets/css/style.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="./assets/img/favicon/admin.png">
 </head>
 <body id="page-top">
