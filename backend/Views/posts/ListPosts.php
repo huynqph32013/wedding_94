@@ -1,4 +1,4 @@
-<h1>Classic editor</h1>
+<h1>Thêm bài viết</h1>
 <form action="?url=list_post" method="post">
     <textarea name="test" id="test" cols="200" rows="10"></textarea>
     <button type="submit" name="submit">Submit</button>
